@@ -1,0 +1,20 @@
+name: Busja
+version: 0.0.1
+main: me.ende124.Busja.Main
+description: My first plugin
+
+commands:
+    randomtp:
+        description: Teleports you to a random location
+    hey:
+        description: Say hey!
+    heal:
+        description: Heal yourself
+    spawn:
+        description: Go to spawn
+    setspawn:
+        description: Set the spawn
+    motd:
+        description: View the MOTD
+    setmotd:
+        description: Set the MOTD
